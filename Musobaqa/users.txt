@@ -1,0 +1,17 @@
+[
+    {
+        "login": "dfg",
+        "point": 0,
+        "password": "12345"
+    },
+    {
+        "login": "dfdfd",
+        "point": 0,
+        "password": "1234344"
+    },
+    {
+        "login": "nurbek",
+        "point": 30,
+        "password": "1234"
+    }
+]
